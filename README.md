@@ -91,3 +91,10 @@ python main.py
 ## About MediScan 
 
 MediScan  aims to assist clinicians and researchers by providing rapid, multidisciplinary assessments of medical case reports. Its modular design allows for easy expansion and integration of additional specialties or custom diagnostic logic.
+
+
+
+<img width="1913" height="909" alt="Screenshot 2025-07-15 153301" src="https://github.com/user-attachments/assets/394516c6-5f9c-449e-8dbf-3671ea334f59" />
+
+<img width="1109" height="734" alt="Screenshot 2025-07-15 153328" src="https://github.com/user-attachments/assets/2c20d91f-ec0c-4b47-9e5c-734252a229ff" />
+
