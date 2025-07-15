@@ -53,8 +53,7 @@ Mediscan/
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/mediscan-ai.git
-    cd mediscan-ai
+    git clone https://github.com/djdhairya/Mediscan.git
     ```
 
 2. **Install dependencies:**
